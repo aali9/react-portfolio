@@ -1,8 +1,8 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import AboutMe from "./pageSections/AboutMe";
-import HomePage from "./components/HomePage"
-import ProjectSection from "./pageSections/ProjectsSection";
+import IntroductionSection from "./pageSections/IntroductionSection";
+import AboutMeText from "./components/AboutMeText"
+import ProjectsSection from "./pageSections/ProjectsSection";
 import Contact from "./components/Contact";
 
 function App() {
@@ -11,11 +11,11 @@ function App() {
         <Navbar />
 
         <div className="container" id="content-container">
-          <AboutMe />
+          <IntroductionSection />
           <hr className="my-5" id="about"/>
-          <HomePage />
+          <AboutMeText />
           <hr className="my-5" id="web-dev-projects"/>
-          <ProjectSection />
+          <ProjectsSection />
         </div>
 
         <Contact />
@@ -26,4 +26,3 @@ function App() {
 }
 
 export default App;
-

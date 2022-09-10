@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 import ProjectCard from "../components/ProjectCard";
-import Projects from "../data/";
+import Projects from "../data/projects.json";
 import codequiz from "../assets/codequiz.png";
 import MVP from "../assets/MVP.png";
 import Booksearch from "../assets/Booksearch.png";

@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 
-function AboutMe() {
+function AboutMeText() {
   return (
     <div className="row">
       <div className="col-md-2 col-sm-10 mx-2 mb-3" id="projects-title">
@@ -17,4 +17,4 @@ function AboutMe() {
   );
 }
 
-export default AboutMe;
+export default AboutMeText;

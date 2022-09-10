@@ -1,6 +1,6 @@
 import React from "react";
 import "../index.css";
-import githubLogo from "../assets/githubLogo.png";
+import githubLogo from "../assets/github.svg";
 import linkedinLogo from "../assets/linkedinLogo.png";
 import resume from "../assets/Anfal-Ali CV 2022.pdf";
 

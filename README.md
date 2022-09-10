@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React Portfolio
+
+Contains My projects and some information about me. 
+Linked with github, Resume, LinkedIn
+Footer contains Contact Info
+
 ## Available Scripts
 
 In the project directory, you can run:

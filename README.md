@@ -11,7 +11,9 @@ Footer contains Contact Info
 Runs on local port 3000
 
 ![alt text](/src/assets/Picture4.png)
+
 ![alt text](/src/assets/Picture5.png)
+
 ## Available Scripts
 
 In the project directory, you can run:

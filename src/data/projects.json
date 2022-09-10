@@ -1,24 +1,48 @@
 {
     "projects": [
+{
+        "name": "Weather Dashboard",
+        "deployedUrl": "https://aali9.github.io/WeatherApp/",
+        "description": "Search for any city around the world. This App features a five day forecast.",
+        "keywords": " Responsive/ Mobile Web Design, APIs",
+        "githubUrl": "https://github.com/aali9/WeatherApp"
+},
+{
+"name": "Weather Dashboard",
+"deployedUrl": "https://aali9.github.io/WeatherApp/",
+"description": "Search for any city around the world. This App features a five day forecast.",
+"keywords": " Responsive/ Mobile Web Design, APIs",
+"githubUrl": "https://github.com/aali9/WeatherApp"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+},
+{
+    "name": "Weather Dashboard",
+    "deployedUrl": "https://aali9.github.io/WeatherApp/",
+    "description": "Search for any city around the world. This App features a five day forecast.",
+    "keywords": " Responsive/ Mobile Web Design, APIs",
+    "githubUrl": "https://github.com/aali9/WeatherApp"
+},
+{
+    "name": "Weather Dashboard",
+    "deployedUrl": "https://aali9.github.io/WeatherApp/",
+    "description": "Search for any city around the world. This App features a five day forecast.",
+    "keywords": " Responsive/ Mobile Web Design, APIs",
+    "githubUrl": "https://github.com/aali9/WeatherApp"
+},
+{
+    "name": "Weather Dashboard",
+    "deployedUrl": "https://aali9.github.io/WeatherApp/",
+    "description": "Search for any city around the world. This App features a five day forecast.",
+    "keywords": " Responsive/ Mobile Web Design, APIs",
+    "githubUrl": "https://github.com/aali9/WeatherApp"
+},
+{
+    "name": "Weather Dashboard",
+    "deployedUrl": "https://aali9.github.io/WeatherApp/",
+    "description": "Search for any city around the world. This App features a five day forecast.",
+    "keywords": " Responsive/ Mobile Web Design, APIs",
+    "githubUrl": "https://github.com/aali9/WeatherApp"
+}
 
 
 
